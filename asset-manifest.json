@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Word-Puzzle-Game/static/css/main.f2e3c3e4.css",
+    "main.js": "/Word-Puzzle-Game/static/js/main.69d538a7.js",
+    "static/js/453.0d280a74.chunk.js": "/Word-Puzzle-Game/static/js/453.0d280a74.chunk.js",
+    "index.html": "/Word-Puzzle-Game/index.html",
+    "main.f2e3c3e4.css.map": "/Word-Puzzle-Game/static/css/main.f2e3c3e4.css.map",
+    "main.69d538a7.js.map": "/Word-Puzzle-Game/static/js/main.69d538a7.js.map",
+    "453.0d280a74.chunk.js.map": "/Word-Puzzle-Game/static/js/453.0d280a74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2e3c3e4.css",
+    "static/js/main.69d538a7.js"
+  ]
+}
